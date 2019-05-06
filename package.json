@@ -1,0 +1,26 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "mi primera aplicacion con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmejiaf/firstAppNodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "first",
+    "app",
+    "nodejs"
+  ],
+  "author": "lmejiaf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmejiaf/firstAppNodeJS/issues"
+  },
+  "homepage": "https://github.com/lmejiaf/firstAppNodeJS#readme"
+}
