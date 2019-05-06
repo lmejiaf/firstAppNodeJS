@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lmejiaf/firstAppNodeJS/issues"
   },
-  "homepage": "https://github.com/lmejiaf/firstAppNodeJS#readme"
+  "homepage": "https://github.com/lmejiaf/firstAppNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
 }
